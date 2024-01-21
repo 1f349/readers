@@ -1,4 +1,4 @@
-module readers
+module github.com/1f349/readers
 
 go 1.21
 
